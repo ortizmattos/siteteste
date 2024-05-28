@@ -4,9 +4,12 @@
 }
 
 .cabeçalho{
-    background-color: beige;
+background-color: beige;
     color: black;
+align-content: center;
+display: inline-block;
 }
+
 .foto{
     width: 10%;
 }
